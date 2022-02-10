@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senolkacar
 - 👀 I’m studying computer management at EPFC
-- 🌱 I’m currently learning JAVA / HTML / CSS and SWIFT
+- 🌱 I’m currently learning JAVA / HTML / CSS and DART / FLUTTER
 - 📫 You can reach me at kacar.senol@gmail.com
 
 <!---
