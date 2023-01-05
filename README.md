@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senolkacar
-- 👀 I’m studying bachelor in software development at EPFC
+- 👀 I’m currently studying software development at EPFC
 - 🌱 I’m currently learning JAVA / HTML / CSS / PHP / KOTLIN
 - 📫 You can reach me at kacar.senol@gmail.com
 
